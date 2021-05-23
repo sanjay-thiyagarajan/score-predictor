@@ -1,4 +1,5 @@
 # Cricket Score Predictor  
+<a href="https://colab.research.google.com/github/sanjay-thiyagarajan/score-predictor/blob/main/CricPredictor.ipynb">![](https://colab.research.google.com/assets/colab-badge.svg)</a>
 ----  
 This project is done for Cricket and Coding Contest organised by IIT Madras. The task is to create a prediction model preferably a pretrained one, to predict the score of a team, given the names of batsmen, bowlers, venue and all other necessary details.  
 ## Training Data  
